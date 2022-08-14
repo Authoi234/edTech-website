@@ -14,3 +14,19 @@
 .accordion-container{
     margin: 0 20%;
 }
+@media only screen and (min-width: 576px) and (max-width: 911px){
+    .pad-left{
+        right: 80px;
+        top: 60px;
+    }
+}
+@media only screen and (min-width: 576px) and (max-width: 911px){
+    .accordion-container{
+        margin: 0 30px;
+    }
+}
+@media only screen and (min-width: 576px) and (max-width: 911px){
+    .visible-style{
+        visibility: hidden;
+    }
+}
