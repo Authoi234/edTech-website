@@ -14,18 +14,18 @@
 .accordion-container{
     margin: 0 20%;
 }
-@media only screen and (min-width: 576px) and (max-width: 911px){
+@media only screen and (min-width: 576px) and (max-width: 1199px){
     .pad-left{
         right: 80px;
         top: 60px;
     }
 }
-@media only screen and (min-width: 576px) and (max-width: 911px){
+@media only screen and (min-width: 576px) and (max-width: 1199px){
     .accordion-container{
         margin: 0 30px;
     }
 }
-@media only screen and (min-width: 576px) and (max-width: 911px){
+@media only screen and (min-width: 576px) and (max-width: 1100px){
     .visible-style{
         visibility: hidden;
     }
